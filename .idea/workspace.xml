@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="837437bb-6a3b-4d0d-bdcc-eb63f6f716df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Image rename and converter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="837437bb-6a3b-4d0d-bdcc-eb63f6f716df" name="Changes" comment="simple proyect to convert images in a file to bmp and rename them to 1, 2, 3, 4, etc." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,12 +59,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710428124304</updated>
-      <workItem from="1710428129976" duration="3312000" />
+      <workItem from="1710428129976" duration="3724000" />
     </task>
+    <task id="LOCAL-00001" summary="simple proyect to convert images in a file to bmp and rename them to 1, 2, 3, 4, etc.">
+      <option name="closed" value="true" />
+      <created>1710432971739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710432971739</updated>
+    </task>
+    <task id="LOCAL-00002" summary="simple proyect to convert images in a file to bmp and rename them to 1, 2, 3, 4, etc.">
+      <option name="closed" value="true" />
+      <created>1710433152690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710433152690</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="simple proyect to convert images in a file to bmp and rename them to 1, 2, 3, 4, etc." />
+    <option name="LAST_COMMIT_MESSAGE" value="simple proyect to convert images in a file to bmp and rename them to 1, 2, 3, 4, etc." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Image_rename_and_converter$main.coverage" NAME="main Coverage Results" MODIFIED="1710432455961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
